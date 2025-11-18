@@ -17,4 +17,8 @@ update this course is resuming for me from 29.10.25:
 | :---         |     :---:      |     :---:      |     :---:      |
 | 28.10.2025 | 2 | Kick-off lecture  | Course started |
 | 4.11.2025 | 2 | Lecture intro to portswigger  | learning |
-| 11.11.2025 | 2 | Lecture | learning |
+| 5.11.2025 | 1 | portswigger | learning |
+| 7.11.2025 | 1,5 | portswigger | learning |
+| 10.11.2025 | 1 | portswigger | learning |
+| 14.11.2025 | 1 | portswigger | learning |
+| 18.11.2025 | 5 | Lecture & portswigger | learning |
