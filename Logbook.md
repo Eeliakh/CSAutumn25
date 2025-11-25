@@ -22,3 +22,4 @@ update this course is resuming for me from 29.10.25:
 | 10.11.2025 | 1 | portswigger | learning |
 | 14.11.2025 | 1 | portswigger | learning |
 | 18.11.2025 | 5 | Lecture & portswigger | learning |
+| 25.11.2025 | 3 | Lecture & setting up VM | learning |
