@@ -23,3 +23,6 @@ update this course is resuming for me from 29.10.25:
 | 14.11.2025 | 1 | portswigger | learning |
 | 18.11.2025 | 5 | Lecture & portswigger | learning |
 | 25.11.2025 | 3 | Lecture & setting up VM | learning |
+| 26.11.2025 | 4 | setting up VM | learning |
+| 27.11.2025 | 3 | working on ZAP & docker | learning |
+| 28.11.2025 | 3 | working on ZAP & docker + report | learning |
