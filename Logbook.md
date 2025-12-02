@@ -4,13 +4,10 @@ update this course is resuming for me from 29.10.25:
 | Date  | Used hours | Subject(s) |  Outcome(s) |
 | :---         |     :---:      |     :---:      |     :---:      |
 
-Spring 2025 (spring hours total: )
-| 31.01.2025 | 2 | workshop  | study |
-| 08.02.2025 | 2 | portswigger study  | learning |
-| 09.02.2025 | 5 | portswigger labs  | learning |
-spring hours: 
-
-Autumn 2025 (autumn hours total: )
+Autumn 2025 + spring 2025(autumn hours total: )
+| 31.01.2025 | 2 | workshop  | study - spring |
+| 08.02.2025 | 2 | portswigger study  | learning - spring |
+| 09.02.2025 | 5 | portswigger labs  | learning - spring |
 | 28.10.2025 | 2 | Kick-off lecture  | Course started |
 | 4.11.2025 | 2 | Lecture intro to portswigger  | learning |
 | 5.11.2025 | 1 | portswigger | learning |
