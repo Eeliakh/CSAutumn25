@@ -1,10 +1,11 @@
 update this course is resuming for me from 29.10.25:
 # Logbook
 
-| Date  | Used hours | Subject(s) |  Outcome(s) |
-| :---         |     :---:      |     :---:      |     :---:      |
 
 Autumn 2025 + spring 2025(autumn hours total: )
+
+| Date  | Used hours | Subject(s) |  Outcome(s) |
+| :---         |     :---:      |     :---:      |     :---:      |
 | 31.01.2025 | 2 | workshop  | study - spring |
 | 08.02.2025 | 2 | portswigger study  | learning - spring |
 | 09.02.2025 | 5 | portswigger labs  | learning - spring |
