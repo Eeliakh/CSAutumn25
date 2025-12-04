@@ -1,20 +1,14 @@
-unga bunga
-
-Logbook
-31.01.2025, 2h, workshop.
-
-Date	Used hours	Subject(s)	output
-31.01.2025	2	workshop	-
-08.02.2025	2	portswigger study	
-09.02.2025	5	portswigger labs
-DD.MM.YYYY	2	-
-
-
 update this course is resuming for me from 29.10.25:
 # Logbook
 
+
+Autumn 2025 + spring 2025(autumn hours total: )
+
 | Date  | Used hours | Subject(s) |  Outcome(s) |
 | :---         |     :---:      |     :---:      |     :---:      |
+| 31.01.2025 | 2 | workshop  | study - spring |
+| 08.02.2025 | 2 | portswigger study  | learning - spring |
+| 09.02.2025 | 5 | portswigger labs  | learning - spring |
 | 28.10.2025 | 2 | Kick-off lecture  | Course started |
 | 4.11.2025 | 2 | Lecture intro to portswigger  | learning |
 | 5.11.2025 | 1 | portswigger | learning |
@@ -26,3 +20,5 @@ update this course is resuming for me from 29.10.25:
 | 26.11.2025 | 4 | setting up VM | learning |
 | 27.11.2025 | 3 | working on ZAP & docker | learning |
 | 28.11.2025 | 3 | working on ZAP & docker + report | learning |
+| 01.12.2025 | 2 | working on ZAP & docker + looking into part 2 of phase 1 | learning |
+| 02.12.2025 | 4 | ZAP & docker + looking into part 2 of phase 1 | learning |
