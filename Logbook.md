@@ -22,3 +22,4 @@ Autumn 2025 + spring 2025(autumn hours total: )
 | 28.11.2025 | 3 | working on ZAP & docker + report | learning |
 | 01.12.2025 | 2 | working on ZAP & docker + looking into part 2 of phase 1 | learning |
 | 02.12.2025 | 4 | ZAP & docker + looking into part 2 of phase 1 | learning |
+| 04.12.2025 | 3 | lecture + portswigger | learning |
