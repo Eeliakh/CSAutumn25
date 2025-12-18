@@ -13,13 +13,13 @@ testing the page for any vulnerabilities, issues or potential threatening bugs.
 - Test approach: Gray-box / Black-box / White-box
 
 **Test environment & dates:**  
-- Start:  25.11.25
-- End:  28.11.25
+- Start:  09.12.25
+- End:  18.12.25
 - Test environment details (OS, runtime, DB, browsers): chrome based browser, ZAP, Docker, Windows 11
 
 **Assumptions & constraints:**  
 - e.g., credentials provided, limited time, etc.
-None to note. Freedom with the Zap, and deadline by 28.11.2025
+None to note. Freedom with the Zap, and deadline by 18.12.2025
 ---
 
 # 2️⃣ Executive Summary
@@ -30,31 +30,20 @@ Using ZAP to test any possible problems with the registeration and webpage. Anyt
 
 **Overall risk level:** (Low / Medium / High / Critical)
 
-Medium risk
-
-During fuzzer inputs produce 302 success responses
-- could accept malicious payloads 🟠
-- possibly malformed strings 🟠
-- extremely long usernames 🟠
-
-tested long strings, this could indicate weak of missing server-side validation (in this case obviously)
-
+*NOTE FOR TEACHER* pictures are in the same folder with the report. they have respective names for the matter.
 
 HIGH RISK
 
 500 internal server error during fuzzer
-- possible DOS vector 🔴
-- possible injection risk 🔴
-- input validation is insufficient 🟠
-- "-H "Content-Type: application/x-www-form-urlencoded" was a payload, and it caused 500 error. 🔴
+- "-H "Content-Type: application/x-www-form-urlencoded" was a payload, and it caused 500 error. *HAS BEEN FIXED*
 
 
 **Top 5 immediate actions:**  
-1.  no age verification, Add proper validation to fix this. 🟠
-2.  new account can be reposted without email and registration goes through without email. 🟠
-3.  input validation failure. 🔴
-4.  database integrity issues. 🔴
-5.  500 error, server crash. Reinforce this ASAP. 🔴
+1.  no age verification, Add proper validation to fix this. (you can still use date from future.) 🟠
+2.  you can create an admin account. 🔴
+3.  input validation has been reinforced.
+4.  Added google encryption
+5.  dos vector and threat has been reinforced.
 
 ---
 
@@ -76,11 +65,8 @@ HIGH RISK
 
 | ID | Severity | Finding | Description | Evidence / Proof |
 |------|-----------|----------|--------------|------------------|
-| F-01 | 🔴 High | DoS risk | 500 error can be caused with long names or markings | ![payloads](image-2.png) |
-| F-02 | 🔴 high | Username issue | System accepts non-email as username | ![system accepts non-email username](image-1.png) |
-| F-03 | 🔴 high | Username issue | System accepts non-email as username, special characters | ![system accepts special characters via injection](image-4.png) |
 | F-04 | 🟠 Low | no age validation | Accepts any age, like day before. | ![age is invalid](image-3.png) |
-| F-05 | 🟡 Low | Weak password policy | Accepts passwords like "12345" | ![password "test" accepted](image.png) |
+| F-05 | 🔴 HIGH | the page lets you make admin account | admin selection | Phase-1/part 2/age validation and administrator account.png |
 
 ---
 
