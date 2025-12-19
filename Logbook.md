@@ -25,3 +25,4 @@ Autumn 2025 + spring 2025(autumn hours total: )
 | 04.12.2025 | 3 | lecture + portswigger | learning |
 | 09.12.2025 | 3 | P1P2 paja | learning |
 | 18.12.2025 | 5 | paja + p1p2 + final report works | learning |
+| 19.12.2025 | 3 | final report works | reflection |
